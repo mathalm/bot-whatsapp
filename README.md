@@ -2,6 +2,10 @@
 
 ![N|Solid](https://cdn.iconscout.com/icon/free/png-256/free-whatsapp-1865883-1581899.png)
 
+## Started
+- To init `npm i`
+- To start `npm start`
+
 ## Term
 License with Consent and Disclaimer
 
